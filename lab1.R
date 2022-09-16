@@ -22,3 +22,5 @@ V4<- alpha==beta
 library(ggplot2)
 
 ggplot() + geom_point(data = mtcars, aes(x = disp, y = mpg))
+
+##her har jeg lavet en ændring
