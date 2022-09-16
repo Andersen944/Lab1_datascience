@@ -2,7 +2,7 @@
 V <- seq(2,10,by=2)
 
 ## opgave 2
-V1<- V[3]<3
+V1<- V[3]>3
 
 ##opgave 3
 V2 <- rev(V)/2
